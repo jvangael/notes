@@ -1,1 +1,1 @@
-# notes
+Python notebook collection
